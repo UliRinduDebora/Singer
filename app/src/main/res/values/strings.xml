@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Singer</string>
+
+    <string-array name="nama_penyanyi">
+        <item>honne</item>
+        <item>paul</item>
+        <item>samkim</item>
+        <item>day6</item>
+        <item>tae</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is honne</item>
+        <item>This is paul</item>
+        <item>This is samkim</item>
+        <item>This is day6</item>
+        <item>This is tae</item>
+    </string-array>
+</resources>
